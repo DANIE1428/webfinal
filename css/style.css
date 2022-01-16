@@ -1,0 +1,82 @@
+                                    body {
+                                        background-color: white;
+                                        font-family: Helvetica;
+                                        font-family: 'Roboto', sans-serif;
+                                    }
+                                    
+                                    h1,
+                                    h2,
+                                    h3,
+                                    h4,
+                                    h5,
+                                    h6 {
+                                        font-family: 'Roboto', sans-serif;
+                                    }
+                                    
+                                    .navbar {
+                                        padding: 6px;
+                                        margin-bottom: 150px;
+                                        background-color: white;
+                                    }
+                                    
+                                    .about-section {
+                                        padding: 5%;
+                                        margin-bottom: 0;
+                                    }
+                                    
+                                    .btn {
+                                        padding: 7px 30px;
+                                    }
+                                    
+                                    .partnership-section {
+                                        background-color: #F4F4F4;
+                                        padding: 3%;
+                                    }
+                                    
+                                    .testimonial-section {
+                                        background-color: #F4F4F4;
+                                        padding: 5%;
+                                    }
+                                    
+                                    .box {
+                                        background-color: white;
+                                        border-style: 1px;
+                                        padding: 3% 0 3% 0 3%;
+                                        margin: 0 20px 20px 0;
+                                    }
+                                    
+                                    p.name {
+                                        color: grey;
+                                    }
+                                    
+                                    .cta-section {
+                                        padding: 10%;
+                                        margin: -3%;
+                                        background-color: #F4F4F4;
+                                    }
+                                    
+                                    .icons {
+                                        display: inline-block;
+                                        position: center;
+                                    }
+                                    
+                                    .footer-section {
+                                        padding: 2%;
+                                    }
+                                    
+                                    .img {
+                                        width: 100%;
+                                    }
+                                    
+                                    .slide {
+                                        margin: -7% 0 0 0;
+                                    }
+                                    
+                                    @media only screen and (max-width: 768px) {
+                                        body {
+                                            align-content: center;
+                                        }
+                                        img {
+                                            align-content: center;
+                                        }
+                                    }
